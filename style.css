@@ -1,0 +1,11 @@
+p {
+  margin: 0 !important;
+}
+
+.weather-desc {
+  font-size: 0.8rem;
+}
+
+.city-desc .weather-desc {
+  font-size: 0.9rem;
+}
