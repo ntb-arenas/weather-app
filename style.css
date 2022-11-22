@@ -1,3 +1,11 @@
+body {
+  height: 90vh;
+  background-image: url("./DSC_0057.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
 p {
   margin: 0 !important;
 }
